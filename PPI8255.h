@@ -1,5 +1,11 @@
-/*
-*/
+//
+//
+//  PPI8255.h
+//  PPI8255 io chip emulator for arm32.
+//
+//  Created by Fredrik Ahlström on 2015-05-28.
+//  Copyright © 2015-2022 Fredrik Ahlström. All rights reserved.
+//
 
 #ifndef PPI8255_HEADER
 #define PPI8255_HEADER
